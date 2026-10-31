@@ -1,0 +1,78 @@
+user_id,role
+U001,User
+U002,User
+U002,Payment Approver
+U003,User
+U003,Global Administrator
+U004,User
+U004,Global Administrator
+U005,User
+U006,User
+U007,User
+U008,User
+U009,User
+U009,Payment Creator
+U009,Payment Approver
+U010,User
+U010,Payment Approver
+U010,Payment Creator
+U011,User
+U012,User
+U013,User
+U013,Global Administrator
+U014,User
+U015,User
+U016,User
+U017,User
+U018,User
+U018,Global Administrator
+U019,User
+U019,Global Administrator
+U020,User
+U021,User
+U022,User
+U023,User
+U023,Global Administrator
+U024,User
+U025,User
+U025,Global Administrator
+U026,User
+U027,User
+U028,User
+U029,User
+U030,User
+U031,User
+U032,User
+U033,User
+U034,User
+U035,User
+U036,User
+U036,Global Administrator
+U037,User
+U038,User
+U039,User
+U040,User
+U041,User
+U042,User
+U043,User
+U044,User
+U044,Global Administrator
+U045,User
+U046,User
+U047,User
+U047,Global Administrator
+U048,User
+U049,User
+U050,User
+U050,Global Administrator
+U051,User
+U052,User
+U053,User
+U054,User
+U055,User
+U056,User
+U057,User
+U058,User
+U059,User
+U059,Global Administrator
+U060,User
